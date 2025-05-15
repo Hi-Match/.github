@@ -12,9 +12,12 @@
 
 HiMatch는 청년과 기업 간 ‘미스매치’를 해결하기 위해 인성검사 기반의 맞춤형 채용 연결을 제공하는 구인구직 플랫폼입니다.
 
-2024년 기준, ‘그냥 쉼’을 선택한 청년 비경제활동인구(15~39세)는 70만 명을 넘어섰습니다. 이들은 일할 능력은 있지만 일할 의사가 없는 상태로, <br> 
-막연한 이유로 취업을 미루고 있는 상황입니다. 통계청은 이러한 현상의 주요 원인으로 구직자와 일자리 간의 미스매치를 지목했습니다. <br> 
-특히 청년층은 교육 수준이 높고, 일자리에 대한 기대치 또한 높지만, 중소기업에 대한 정보 부족과 막연한 불안감으로 인해 진입을 망설이고 있습니다.
+2024년 기준, ‘그냥 쉼’을 선택한 청년 비경제활동인구(15~39세)는 70만 명을 넘어섰습니다. <br> 
+이들은 일할 능력은 있지만 일할 의사가 없는 상태로, <br>
+막연한 이유로 취업을 미루고 있는 상황입니다. <br>
+통계청은 이러한 현상의 주요 원인으로 구직자와 일자리 간의 미스매치를 지목했습니다. <br> 
+특히 청년층은 교육 수준이 높고, 일자리에 대한 기대치 또한 높지만, <br> 
+중소기업에 대한 정보 부족과 막연한 불안감으로 인해 진입을 망설이고 있습니다.
 
 HiMatch(팀 저공비행단) 역시 이러한 현실을 직접 경험했습니다. <br> 
 100곳이 넘는 이력서를 제출했지만 서류 탈락이 반복되었고, 아이러니하게도 대기업 공채에서는 면접까지 합격한 경험이 있었습니다. <br> 
@@ -226,9 +229,6 @@ HiMatch는 구직자와 기업 모두에게 "몰랐던 나와 너"를 이해할 
 
 </details>
 
-<br>
-
-
 <details>
 <summary>📢 인성검사 질문지 - Network vs Focus (Y/N) 📢</summary>
 
@@ -279,9 +279,6 @@ HiMatch는 구직자와 기업 모두에게 "몰랐던 나와 너"를 이해할 
 | 39 | 나는 다른 사람의 감정에 민감하게 반응하는 편이다 | Network | 공감적 특성 강조 |
 | 40 | 나는 다른 사람의 말을 들을 때 집중하려 노력한다 | Network | 경청 기반 소통 추구 |
 
-<br>
-
-
 ## 💡 일관성 체크에 사용될 수 있는 문항
 
 ---
@@ -300,8 +297,6 @@ HiMatch는 구직자와 기업 모두에게 "몰랐던 나와 너"를 이해할 
 | 나는 친목보다 성과 중심의 업무를 선호한다 | 31 | 나는 사람들과의 관계 속에서 업무 효율이 높아진다고 느낀다 | 36 | 상반 응답 시 일관성 의심 | 관계 기반 성과 인식 여부 |
 
 </details>
-
-<br>
 
 
 <details>
@@ -864,19 +859,18 @@ gemini:
   api-key: { gemini api key}
 ```
 
-각 key값들을 해당 사이트에 가입하여 기입합니다.
-
-- [사업자등록번호](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15081808#/)
-- [쿨에스엠에스](https://coolsms.co.kr/)
-- [S3](https://aws.amazon.com/ko/s3/)
-- [카카오](https://developers.kakao.com/)
-- [네이버](https://developers.naver.com/main/)
-- [구글](https://developers.google.com/?hl=ko)
-- [Gemini](https://aistudio.google.com/apikey) 
+* 각 key값들을 해당 사이트에 가입하여 기입합니다.
+  - [사업자등록번호](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15081808#/)
+  - [쿨에스엠에스](https://coolsms.co.kr/)
+  - [S3](https://aws.amazon.com/ko/s3/)
+  - [카카오](https://developers.kakao.com/)
+  - [네이버](https://developers.naver.com/main/)
+  - [구글](https://developers.google.com/?hl=ko)
+  - [Gemini](https://aistudio.google.com/apikey)
 
 **3. mysql을 설치하고, thanksyouplz 스키마를 생성합니다.**
 
-그 후, sql 폴더에 존재하는 table.sql 파일을 실행하여 테이블들을 생성합니다.
+* 그 후, sql 폴더에 존재하는 table.sql 파일을 실행하여 테이블들을 생성합니다.
 
 **4. 이제 spring을 동작하면 구동합니다.**
 

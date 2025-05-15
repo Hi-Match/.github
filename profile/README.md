@@ -648,7 +648,7 @@ HiMatch는 구직자와 기업 모두에게 "몰랐던 나와 너"를 이해할 
 
 ## 📈 10. 채용 지원 (기업)
 
-![image](https://github.com/user-attachments/assets/2f5bc9cb-01d5-4539-88c3-db027f910f9c)
+![image](https://github.com/user-attachments/assets/860544b5-3c4d-416f-99b1-1fc5ff1bdf40)
 
 - 기업 담당자는 채용 공고 등록 시, 공고별·직무별로 자사 인재상에 적합한 자기소개서 질문 항목을 설정할 수 있음
 - 자기소개서 질문의 답변 글자 수는 500자, 700자, 1000자, 1500자 중 선택하여 제한 가능함

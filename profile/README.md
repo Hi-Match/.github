@@ -1,8 +1,12 @@
 <h1 align="center">📈 “Hi! High한 당신을 Hire합니다. Hi-Match” 📈</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14e60b2a-d42d-4f35-9601-8f7f48abbbef" alt="image" />
+  <a href="https://www.himatch.co.kr/">
+    <img src="https://github.com/user-attachments/assets/14e60b2a-d42d-4f35-9601-8f7f48abbbef" alt="image" />
+  </a>
 </p>
+
+- 이미지 클릭 시, 하이매치(Hi-Match) 사이트로 이동합니다.
 
 <br>
 
